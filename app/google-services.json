@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "210763560159",
+    "project_id": "lab5-mac2023",
+    "storage_bucket": "lab5-mac2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210763560159:android:b20b0efa78ae3b47ebe56a",
+        "android_client_info": {
+          "package_name": "com.example.lab5_mac2023"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210763560159-p5op18kjiv08hpmqalu0e4r32hl97v2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdFYA6cUN6sjqkOxsPTa18ZHS1DP6Imk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210763560159-p5op18kjiv08hpmqalu0e4r32hl97v2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
